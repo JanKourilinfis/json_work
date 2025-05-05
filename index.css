@@ -1,0 +1,10 @@
+*{
+    background-color: aliceblue;
+}
+#div{
+    justify-content: center;
+}
+img{
+    height: 50px;
+    width: 50px;
+}
