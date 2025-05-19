@@ -1,9 +1,11 @@
 *{
-    background-color: aliceblue;
+    background-color: lightseagreen;
 }
 #div{
+    display: flex;
     justify-content: center;
     flex-direction: column;
+    width: fit-content;
 }
 img{
     height: 600px;
@@ -12,4 +14,8 @@ img{
 h3{
     display: block;
     width: fit-content;
+}
+body{
+    display: flex;
+    justify-content: center;
 }
