@@ -3,6 +3,7 @@
 }
 #div{
     justify-content: center;
+    flex-direction: column;
 }
 img{
     height: 600px;
